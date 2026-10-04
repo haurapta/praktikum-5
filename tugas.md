@@ -11,12 +11,15 @@
 
 ## 4. Ubahlah ijin akses file dataku pada sub direktori januari sehingga group dan others dapat melakukan write.
 <img width="676" height="154" alt="t4 1" src="https://github.com/user-attachments/assets/3498a46b-384f-4e3b-81be-161ca6ffe3d5" />
+<img width="335" height="430" alt="t 4 2" src="https://github.com/user-attachments/assets/d96f60cf-01b3-4c69-8bde-f42fb9303a7e" />
 
 ## 5. Ubahlah ijin akses file dataku pada sub direktori februari sehingga user dapat melakukan baik write, read maupun execute, tetapi group dan others hanya bisa read dan execute.
 <img width="677" height="74" alt="t 5 1" src="https://github.com/user-attachments/assets/60fce5e8-d87e-4cad-9f2d-e8f71e63ecce" />
+<img width="203" height="505" alt="t 5 2" src="https://github.com/user-attachments/assets/3709461d-60a0-4493-b780-2656db161dcf" />
 
 ## 6. Ubahlah ijin akses file dataku pada sub direktori maret sehingga semua dapat melakukan write, read dan execute.
 <img width="643" height="119" alt="t 6 1" src="https://github.com/user-attachments/assets/b4f30609-52e2-48f0-a9f9-dabe910cbf6b" />
+<img width="195" height="269" alt="t 6 2" src="https://github.com/user-attachments/assets/3945ac0f-6e7e-4efa-becb-2047de991dd9" />
 
 ## 7. Hapuslah direktori maret.
 <img width="652" height="126" alt="t 7 1" src="https://github.com/user-attachments/assets/3d1907c9-68e8-4c84-82c4-a083029601f4" />
@@ -26,6 +29,8 @@
 
 ## 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya ?
 <img width="644" height="207" alt="t 9 1" src="https://github.com/user-attachments/assets/2f4c112f-1ab3-48ca-bcdd-a95ec5d6aa78" />
+<img width="353" height="522" alt="t 9 2" src="https://github.com/user-attachments/assets/37e73452-7fc5-45f8-a97d-fac65b489a1f" />
 
 ## 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi ? 
 <img width="656" height="242" alt="t 10 1" src="https://github.com/user-attachments/assets/00e6a915-2bfd-4259-8a4f-4eb57aff240a" />
+<img width="386" height="369" alt="t 10 2" src="https://github.com/user-attachments/assets/285d704a-7d45-43bb-a757-994f0c68d4b9" />
