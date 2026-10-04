@@ -1,4 +1,4 @@
-# percobaan 1 :  Melihat ps (process status) dan status direktori /proc  Catatan : Pastikan tidak dalam akses root 
+### percobaan 1 :  Melihat ps (process status) dan status direktori /proc  Catatan : Pastikan tidak dalam akses root 
 # 1. ps menampilkan PID (Process ID) untuk shel dan proses ps itu sendiri
 # [$ ps]
 # [$ ls -l /proc/[Nomor PID]
