@@ -2,7 +2,7 @@
 # 1. ps menampilkan PID (Process ID) untuk shel dan proses ps itu sendiri
    $ ps
    $ ls -l /proc/[Nomor PID]
-![Teks Alternatif]()
+![Teks Alternatif](<img width="661" height="451" alt="l1" src="https://github.com/user-attachments/assets/ac4eccb8-90c9-4f4f-b008-e4d4d10be433" />)
 
 # 2. Melihat status proses
    $ cat /proc/[Nomor PID]/status
