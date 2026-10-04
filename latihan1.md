@@ -22,3 +22,7 @@
 ### [$ sudo su   [sudo] password for mahasiswa :  password)]                                                                           
 ### [# echo 1 > /proc/sys/net/ipv4/ip_forward]   
 <img width="650" height="100" alt="l6" src="https://github.com/user-attachments/assets/42cbc1a2-20af-43f9-8552-47ce5fb3a018" />
+
+## 6. Kembali ke user semula dan tampilkan variable kernel dengan nilai baru 
+### [$ cat  /proc/sys/net/ipv4/ip_forward]
+<img width="661" height="444" alt="l7" src="https://github.com/user-attachments/assets/07481b0e-0cf2-400f-8790-fee572aa0f01" />
