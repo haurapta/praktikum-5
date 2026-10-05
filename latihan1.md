@@ -53,10 +53,21 @@
 <img width="677" height="662" alt="percobaan 3 5 " src="https://github.com/user-attachments/assets/34767b7e-b575-4735-8c28-45be349b504d" />
 
 # Percobaan 6 : Simbolic Link 
-## 1. Link file [$ echo "Hallo apa khabar" > halo.txt] [$ ls -l] [$ ln halo.txt z] [$ ls -l] [$ cat z] [$ mkdir mydir] [$ ln z mydir/halo.juga] [$ cat mydir/halo.juga] [$ ls -l mydir]
+## 1. Link file [$ echo "Hallo apa khabar" > halo.txt] 
+### [$ ls -l] 
+### [$ ln halo.txt z] 
+### [$ ls -l] [$ cat z] 
+### [$ mkdir mydir] 
+### [$ ln z mydir/halo.juga] 
+### [$ cat mydir/halo.juga] 
+### [$ ls -l mydir]
 <img width="656" height="668" alt="percobaan 6 1 " src="https://github.com/user-attachments/assets/412533ff-5f5a-4de3-b45f-53ec434ee34d" />
 <img width="680" height="641" alt="percobaan 6 2 " src="https://github.com/user-attachments/assets/f14d8645-8001-4f13-86ec-5a966232e575" />
 
-## 2. Symbolic Link file [$ mount] [$ ln /home/mahasiswa/z /tmp/halo.txt] [$ ln -s /home/mahasiswa/z /tmp/halo.txt] [$ ls -l /tmp/halo.txt] [$ cat /tmp/halo.txt]
+## 2. Symbolic Link file 
+### [$ mount] 
+### [$ ln /home/mahasiswa/z /tmp/halo.txt] 
+### [$ ln -s /home/mahasiswa/z /tmp/halo.txt] 
+### [$ ls -l /tmp/halo.txt] [$ cat /tmp/halo.txt]
 <img width="675" height="654" alt="percobaan 6 3 " src="https://github.com/user-attachments/assets/79b8cf28-e906-4547-b5f4-3f3f57435214" />
 <img width="659" height="437" alt="percobaan 6 4 " src="https://github.com/user-attachments/assets/f2d98df8-f345-47e1-ad1b-528f5626fff0" />
